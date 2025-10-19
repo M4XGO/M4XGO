@@ -21,4 +21,20 @@ DevOps engineering<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=M4XGO&icon=1&color=12)](https://visitcount.itsvg.in)
 
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-10-19T09:21:16.108Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x0d7F8CfDBB634b05937152186b2282E6a275D75F"
+    },
+    {
+      "chain": "solana",
+      "address": "4TFXGNiGcoVFpQFQ18dB9HymXmP4h1NveDPCHvNUVyum"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
